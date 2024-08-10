@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Htet Lin Thu [htetlinthu.github.io](https://htetlinthu.github.io)
+# Hi there! 👋 I'm Htet Lin Thu ([htetlinthu.github.io](https://htetlinthu.github.io))
 
 With a passion for technology and a knack for problem-solving, I thrive in dynamic environments where innovation and collaboration intersect. As an experienced instructor and web developer, I bring a blend of technical expertise and effective communication skills to every project.
 
