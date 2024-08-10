@@ -1,20 +1,25 @@
-# Hi there! 👋 I'm [Htet Lin Thu]
+# Hi there! 👋 I'm Htet Lin Thu
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in building robust and scalable web applications. I use modern technologies like Laravel and Vue.js to bring ideas to life.
 
 ## 🚀 About Me
 
 - 💻 **Full-Stack Developer** focusing on both front-end and back-end development.
-- 🌐 Proficient in **Laravel**, **Vue.js**, **Adonis.js** and **Git**.
+- 🌐 Proficient in **Laravel**, **Vue.js**, **Adonis.js**, and **Git**.
 - 🛠️ Experienced in developing and maintaining high-quality, user-centric applications.
-- 🔧 Committed to writing clean, maintainable code and continuously learning new technologies.
+- 🔧 Committed to writing clean, maintainable code while continuously learning and adopting new technologies.
 
 ## 🛠️ Technologies & Tools
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Adonis.js](https://img.shields.io/badge/-Adonis.js-220052?style=flat-square&logo=adonisjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 💼 Projects
 
@@ -31,6 +36,7 @@ Here are some of my successful projects:
 - **Facebook:** [Htet Lin Thu](https://www.facebook.com/htet.linthu.777)
 - **LinkedIn:** [Htet Lin Thu](https://www.linkedin.com/in/htet-lin-thu-4b3529168)
 - **YouTube:** [FullStack Dev](https://www.youtube.com/@FullStackDEVMM)
+- **YouTube:** [Htet Lin Thu](https://www.youtube.com/@htetlinthu726)
 - **Facebook:** [Web Programming Channel](https://www.facebook.com/profile.php?id=100063771338590)
 
 ---
