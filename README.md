@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Htet Lin Thu
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in building robust and scalable web applications. I use modern technologies like Laravel and Vue.js to bring ideas to life.
+With a passion for technology and a knack for problem-solving, I thrive in dynamic environments where innovation and collaboration intersect. As an experienced instructor and web developer, I bring a blend of technical expertise and effective communication skills to every project.
 
 ## 🚀 About Me
 
