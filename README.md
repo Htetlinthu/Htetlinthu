@@ -20,6 +20,10 @@ With a passion for technology and a knack for problem-solving, I thrive in dynam
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-004088?style=flat-square&logo=github-actions&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ## 💼 Projects
 
@@ -30,6 +34,18 @@ Here are some of my successful projects:
 - [**Starfish Microfinance**](https://starfishmicrofinance.com) - A microfinance solution tailored for Myanmar.
 - [**Titi Chat**](https://titi.chat) - A real-time chat application.
 - [**Dear Office**](https://www.dearoffice.com) - A modern office management solution.
+- **Dawei Resort** - A luxury resort in Dawei, Myanmar.
+- **Apex Hotel** - A top-tier hotel in Myanmar.
+- **Taste Window** - A platform for food lovers.
+- **Blessing Home** - A home service solution.
+- **YPF** - Real estate services in Myanmar.
+- **MIGM** - An online learning platform.
+- **Tint Tint Myanmar** - Luxury cruise services in Myanmar.
+
+## 🎓 Instructor
+
+- **Magic Pay (min wallet web application) Course** - A comprehensive course on building a minimal wallet web application.
+- **Ninja HR Course** - An advanced course on HR management systems.
 
 ## 📫 How to Reach Me
 
