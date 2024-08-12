@@ -44,8 +44,8 @@ Here are some of my successful projects:
 
 ## 🎓 Instructor
 
-- **Magic Pay (min wallet web application) Course** - A comprehensive course on building a minimal wallet web application.
-- **Ninja HR Course** - An advanced course on HR management systems.
+- **Magic Pay (min wallet web application) Course** - A comprehensive course on building a minimal wallet web application. [Watch here](https://www.youtube.com/playlist?list=PLOvEA8-W5LWkd__0C59na6lrZGZuDzE0p)
+- **Ninja HR Course** - An advanced course on HR management systems. [Watch here](https://www.youtube.com/playlist?list=PLOvEA8-W5LWnoffB0qQTgHMtmTRFlaKXr)
 
 ## 📫 How to Reach Me
 
