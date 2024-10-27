@@ -44,8 +44,9 @@ Here are some of my successful projects:
 
 ## 🎓 Instructor
 
-- **Magic Pay (min wallet web application) Course** - A comprehensive course on building a minimal wallet web application. [Watch here](https://www.youtube.com/playlist?list=PLOvEA8-W5LWkd__0C59na6lrZGZuDzE0p)
-- **Ninja HR Course** - An advanced course on HR management systems. [Watch here](https://www.youtube.com/playlist?list=PLOvEA8-W5LWnoffB0qQTgHMtmTRFlaKXr)
+- **Yangon Railway Service Course** - A comprehensive course covering the development of the Yangon Railway Service web application, including features like route management, ticketing, and multi-auth with two-step verification. [Watch here](https://www.youtube.com/playlist?list=PLOvEA8-W5LWkctQ07njogBF_3dma4wzLr)
+- **Magic Pay (min wallet web application) Course** - Learn how to build a basic wallet web application, with hands-on instructions for essential wallet features and payment functionalities. [Watch here](https://www.youtube.com/playlist?list=PLOvEA8-W5LWkd__0C59na6lrZGZuDzE0p)
+- **Ninja HR Course** - An advanced course focused on building an HR management system, covering employee management, attendance tracking, and role-based permissions. [Watch here](https://www.youtube.com/playlist?list=PLOvEA8-W5LWnoffB0qQTgHMtmTRFlaKXr)
 
 ## 📫 How to Reach Me
 
